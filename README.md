@@ -1,84 +1,97 @@
-# Olá, eu sou o Victor Hugo Moreira! 👋
+# Hi, I'm Victor Hugo Moreira! 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Cargo-Desenvolvedor%20Jr%20%40%20Pluxee%20Brasil-0052CC?style=for-the-badge" alt="Cargo" />
-  <img src="https://img.shields.io/badge/Localização-Barueri,%20SP,%20Brasil-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
-  <img src="https://img.shields.io/badge/Foco-Backend%20%26%20Bancos%20de%20Dados-FF8C00?style=for-the-badge" alt="Foco Técnico" />
-</p>
-
----
-
-### 🚀 Sobre Mim
-
-Sou Desenvolvedor de Software focado em **sustentação, evolução e melhoria contínua de sistemas corporativos de alta criticidade**. Atualmente na Pluxee Brasil, atuo no ciclo de desenvolvimento de ponta a ponta: desde a implementação de novas funcionalidades e APIs até a otimização de rotinas de banco de dados e processamento batch.
-
-Com sólida vivência na resolução de incidentes produtivos, atuo no diagnóstico de falhas através de análises de causa raiz (RCA) e na execução de correções definitivas, assegurando estabilidade, escalabilidade e resiliência às soluções de negócio. 
-
-Minha trajetória também inclui experiência prévia como **Agile Master** e **Agilista**, o que me confere uma perspectiva diferenciada em facilitação de rituais ágeis (Scrum/Kanban), mitigação de impedimentos e alinhamento estratégico (PI Planning) voltado para a entrega contínua de valor real ao cliente.
-
----
-
-### 🛠️ Competências Técnicas
-
-#### 💻 Linguagens de Programação & Dados
-<p align="left">
-  <img src="https://img.shields.io/badge/Java%208%20%2F%2021-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white" alt="PL/SQL" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="Linguagem R" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-</p>
-
-#### ⚙️ Frameworks & Bibliotecas (Back-end & Front-end)
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/PrimeFaces-2C4B7C?style=for-the-badge" alt="PrimeFaces" />
-  <img src="https://img.shields.io/badge/Web%20Components-1E2A3A?style=for-the-badge&logo=webcomponents&logoColor=white" alt="Web Components" />
-</p>
-
-#### 🔧 Ferramentas, DevOps & Agilidade
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/CI%2FCD-444444?style=for-the-badge" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Jira%20Software-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
----
-
-### 🏆 Certificações & Formação Acadêmica
-
-* **Graduação:** Bacharelado em Ciência da Computação – Universidade Paulista (2023 - 2026)
-* **Agilidade:** 
-  * Certificado pela Kanban University: **KMP** (Kanban Management Professional), **KSI** (Kanban System Improvement) e **KSD** (Kanban System Design)
-  * Scrum.org: **PSM I** (Professional Scrum Master I)
-* **Tecnologia & Dados:**
-  * Microsoft Power BI para Business Intelligence e Data Science
-  * Formação HTML Web Developer
-  * Trabalhando com Web Components no Front-end
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=contatovictorhugos-hash&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=contatovictorhugos-hash&layout=compact&theme=radical&langs_count=7" alt="Linguagens mais utilizadas" />
-</p>
-
-<p align="left">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=contatovictorhugos-hash&theme=radical" alt="Sequência de Contribuições" />
-</p>
-
----
-
-### 🤝 Conecte-se Comigo
+**Backend Developer** | *Building resilient Java/Spring & Oracle systems optimized with Agile & AI.*
 
 <p align="left">
   <a href="https://www.linkedin.com/in/victor-hugo-moreira-05b823213" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:contato.victorhugos@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <img src="https://img.shields.io/badge/Location-Barueri%2C%20SP%2C%20Brazil-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 </p>
+
+---
+
+### 🚀 About Me
+
+- 💼 **Current Role**: Junior Developer at **Pluxee Brasil (Sodexo ecosystem)**, delivering robust Java 8/21 microservices, REST APIs, and high-performance Oracle PL/SQL database solutions.
+- 📈 **Agile to Backend**: Successfully transitioned from a background as an **Agile Master & Agilista** (facilitating 2 squads, Jira optimization, and PI Planning), bringing a value-driven, team-first perspective to engineering.
+- ⚡ **Production Depth**: Active in critical production support, root cause analysis (RCA), SQL performance tuning, and batch process optimization.
+- 🎓 **Education & Research**: Undergrad in Computer Science at **UNIP** (2023–2026), currently building a Random Forest predictive model in Python to forecast highway accident severity.
+- 🧠 **AI Integration**: Applying Generative AI patterns to automate PL/SQL scripting workflows and accelerate unit test generation.
+
+---
+
+### 🛠️ Tech Stack
+
+#### ☕ Backend & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PrimeFaces-2C4B7C?style=for-the-badge" alt="PrimeFaces" />
+</p>
+
+#### 💾 Database & Performance
+<p align="left">
+  <img src="https://img.shields.io/badge/Oracle%20PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle PL/SQL" />
+  <img src="https://img.shields.io/badge/SQL%20Tuning-F80000?style=for-the-badge" alt="SQL Tuning" />
+  <img src="https://img.shields.io/badge/Batch%20Processing-F80000?style=for-the-badge" alt="Batch Processing" />
+</p>
+
+#### 📊 Data, AI & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R Language" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Claude%20AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude AI" />
+  <img src="https://img.shields.io/badge/Gen%20AI%20%26%20LLMs-D97706?style=for-the-badge" alt="Generative AI & LLMs" />
+</p>
+
+#### ⚙️ DevOps & Tooling
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/CI%2FCD-181717?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD" />
+</p>
+
+#### 👥 Agile Methodologies
+<p align="left">
+  <img src="https://img.shields.io/badge/Kanban%20KMP-0052CC?style=for-the-badge" alt="Kanban" />
+  <img src="https://img.shields.io/badge/Scrum%20PSM%20I-0052CC?style=for-the-badge" alt="Scrum" />
+</p>
+
+---
+
+### 🏆 Key Certifications
+
+| Certification | Issuer | Year |
+| :--- | :--- | :---: |
+| **Object-Oriented Design** | University of Alberta / Coursera | 2026 |
+| **Generative AI with LLMs** | DeepLearning.AI / Coursera | 2026 |
+| **AI Fundamentals with Claude** | Anthropic | 2026 |
+| **Java & Spring Boot + Java Web** | Alura | 2026 |
+| **Kanban Management Professional (KMP)** | Kanban University | 2024 |
+| **Professional Scrum Master (PSM I)** | Scrum.org | 2024 |
+| **Fundamentos de Engenharia de Dados** | Data Science Academy | 2024 |
+| **Oracle SQL / PL/SQL** | Alura | 2024 |
+
+---
+
+### 📊 GitHub Stats
+
+> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username to load your profile statistics.
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🎯 Current Focus
+
+- **TCC Academic Research**: Building a predictive machine learning model for Brazilian highway accident severity using **Random Forest** algorithms in Python to target preventative safety interventions.
+- **Continuous Learning**: Mastering advanced Spring Cloud microservices architecture, backend system observability, and orchestration of LLM-based autonomous agents.
