@@ -82,11 +82,9 @@
 
 ### 📊 GitHub Stats
 
-> **Note:** Replace `YOUR_GITHUB_USERNAME` in the URLs below with your actual GitHub username to load your profile statistics.
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contatovictorhugos-hash&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=contatovictorhugos-hash&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
