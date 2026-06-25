@@ -89,6 +89,26 @@
 
 ---
 
+### 🏆 Featured Projects
+
+> The three projects below represent the most complete work in my portfolio.
+> They share a common domain and work together as a cohesive system.
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Mail Notifier Service**](#) | Dispatches transactional emails through the Brevo API with optional AES-encrypted content | Java 21 · Spring Boot · PostgreSQL |
+| [**Key Management Service**](#) | Generates and stores AES cryptographic keys exposed via a REST API for downstream consumers | Java 21 · Spring Boot · Docker |
+| [**Backoffice**](#) | Renders an internal administration panel with role-based access control and audit logging | Spring Security · Thymeleaf · Flyway |
+
+### How they connect
+
+Mail Notifier Service calls the Key Management Service REST API to obtain AES encryption keys before dispatching emails. Backoffice provides the administrative interface for managing users whose actions are audit-logged to the same PostgreSQL infrastructure. All three services are containerised with Docker Compose and share Flyway-managed database schemas.
+
+> 💡 See each project's own README for architecture diagrams, setup instructions,
+> and full API reference.
+
+---
+
 ### 🎯 Current Focus
 
 - **TCC Academic Research**: Building a predictive machine learning model for Brazilian highway accident severity using **Random Forest** algorithms in Python to target preventative safety interventions.
